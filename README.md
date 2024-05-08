@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Typescript , Next.js , Python<br>💬 Ask me about Full Stack Web Developer Road Map<br>⚡ Fun fact
+<h2 align="left">Hi 👋! My name is Shariq and I'm a Full Stack Developer</h2>
 
 
 ## 🌐 Socials:
