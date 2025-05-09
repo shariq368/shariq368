@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shariq and I'm Frontened Developer & AI Automation Expert</h2>
+<h2 align="left">Hi 👋! My name is Shariq and I'm Frontend Developer & AI Automation Expert</h2>
 
 
 ## 🌐 Socials:
